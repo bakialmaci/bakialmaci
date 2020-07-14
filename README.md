@@ -2,7 +2,7 @@
 
 A student who interested in computer science and autonomous systems. I've some considerable experience with robotics and embedded systems.
 
-  - C++ |  Python | Autonomous Systems | Robotics |
+  - C++ |  Python | Autonomous Systems | Robotics
   - PHP | JavaScript | HTML / CSS | React Native
 
 
