@@ -18,7 +18,7 @@ A student who interested in computer science and autonomous systems. I've some c
 
 👯 I’m looking to teammate on,
 - Social friendship application
-    >Backend: Laravel
+    >Backend: Laravel ,
     >Mobile: React Native
 
 
