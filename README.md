@@ -1,16 +1,29 @@
-### Hi there 👋
+### Baki ALMACI
 
-<!--
-**bakialmaci/bakialmaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A student who interested in computer science. I've some considerable experience with robotics and embedded systems.
 
-Here are some ideas to get you started:
+  - C++ |  Python | Autonomous Systems | Robotics |
+  - PHP | JavaScript | HTML / CSS | React Native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔭 I’m currently working on,
+  - An aero flight mobile application (IOS & Android)
+  - A social friendship application (IOS & Android)
+
+
+🌱 I’m currently learning,
+ - Data Science & Machine Learning
+ - Advanced  level C++
+ - React JS & React Native
+
+👯 I’m looking to teammate on,
+- Social friendship application
+    >Backend: Laravel
+    >Mobile: React Native
+
+
+💬 Ask me about,
+- React Native, C++, Python
+- Robotics projects & ideas.
+
+**As you can see... Hardware & Software mixed up!**
