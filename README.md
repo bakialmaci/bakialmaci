@@ -8,8 +8,8 @@ A student who interested in computer science and autonomous systems. I've some c
 
 🔭 I’m currently working on,
   - A stock market trade analyzer application (React Native) - suspended.
-  - An aero flight mobile application (React Native)
-  - A social friendship application (React Native)
+  - An aero flight mobile application (React Native) - done (maintenance).
+  - A social friendship application (React Native) - continuing.
 
 
 🌱 I’m currently learning,
