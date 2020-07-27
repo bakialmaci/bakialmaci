@@ -27,4 +27,4 @@ A student who interested in computer science and autonomous systems. I've some c
 - React Native, C++, Python
 - Robotics projects & ideas.
 
-**As you can see... Hardware & Software mixed up!**
+
