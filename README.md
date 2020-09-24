@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baki</h1>
-<h3 align="center">I'm a senior student at Hacettepe University Department of Electrical and Electronics Engineering. I've experienced in computer science and autonomous systems. I built so many software applications and autonomous systems (mostly robotics) using different programming languages and technologies so far.</h3>
+<h3 align="center">I'm a senior year student at Hacettepe University Department of Electrical and Electronics Engineering. I've experienced in computer science and autonomous systems. I built so many software applications and autonomous systems (mostly robotics) using different programming languages and technologies so far.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakialmaci" alt="bakialmaci" /> </p>
 
