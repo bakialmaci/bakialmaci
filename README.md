@@ -6,6 +6,6 @@ I'm a senior year student at Hacettepe University Department of Electrical and E
 
 **Languages** ; C, C++, Python, VHDL, JavaScript, PHP
 
-**Hardware** ; ARM, Arduino, MSP430, Raspberry Pi, PIC, MSP430
+**Hardware** ; ARM, Arduino, MSP430, Raspberry Pi, PIC
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakialmaci" alt="bakialmaci" /> </p>
