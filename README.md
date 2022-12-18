@@ -4,7 +4,7 @@ I'm a embedded software focused electrical and electronics engineer. Previously,
 
 🔭 Here's a few skills, I've been experienced/worked in;
 
-**Languages** ; C, C++, Python, JavaScript, Java
+**Languages/Frameworks** ; C, C++, Python, JavaScript, Java, React Native, Arduino, Laravel
 
 **Hardware** ; STM32F407XX, STM32F103XX, MSP430F4133, MSP430G2553, Raspberry Pi 3B+, PIC 18F4550, PIC 16F628A, PIC 16F877A
 
